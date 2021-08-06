@@ -1,6 +1,6 @@
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRhcm1hIiwiaWQiOiI2MGNiODI1YzMyZDVlYjMxMDEwMzNjMzYiLCJpYXQiOjE2MjQyNjIyMDl9.bHRvRUc2-HmzeTJlJ5zduU9FPff2ZcKKpiu-1wghYjI
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRhcm1hIiwiaWQiOiI2MTA5NTRlZmE2YzE0NWE2ZDJiZGViMGUiLCJpYXQiOjE2MjgwMDE1MjN9.GlhMia022PNv695Dx8S2L_jJdHXpHh2ZUYqZ_tFhQSU
 
 {
     "title": "KISSABLOGI",
