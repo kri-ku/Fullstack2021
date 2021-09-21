@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRhcm1hIiwiaWQiOiI2MTBkNjZkZmQ2OGU4ODM0YjY3NjY2ZDEiLCJpYXQiOjE2MzE2MjU0OTJ9.CavOU93aROhkojL4vwL3wrES3qHcqy-U2thmCqyAuJ0
+
+{
+    "title": "Kissablogi",
+    "author": "markku hoo",
+    "url": "www.mayra.fi"
+
+}

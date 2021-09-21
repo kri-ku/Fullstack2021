@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title": "blogitesti moi",
+    "author": "kristiina",
+    "url": "kristiina.moi",
+    "likes": 120,
+    "userId": "60c792fd3a556936264d4040"
+}
