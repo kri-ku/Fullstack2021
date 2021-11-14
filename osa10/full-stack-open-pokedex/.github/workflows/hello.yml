@@ -2,8 +2,8 @@ name: Hello World!
 
 on: 
   push:
-   branches:
-     - master
+    branches:
+      - main
 
 jobs: 
   hello_world_job:
